@@ -1,0 +1,15 @@
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\bin\Debug\net7.0\owentest.exe
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\bin\Debug\net7.0\owentest.deps.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\bin\Debug\net7.0\owentest.runtimeconfig.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\bin\Debug\net7.0\owentest.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\bin\Debug\net7.0\owentest.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\obj\Debug\net7.0\owentest.csproj.AssemblyReference.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\obj\Debug\net7.0\owentest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\obj\Debug\net7.0\owentest.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\obj\Debug\net7.0\owentest.AssemblyInfo.cs
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\obj\Debug\net7.0\owentest.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\obj\Debug\net7.0\owentest.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\obj\Debug\net7.0\refint\owentest.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\obj\Debug\net7.0\owentest.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\obj\Debug\net7.0\owentest.genruntimeconfig.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\owentest\owentest\obj\Debug\net7.0\ref\owentest.dll
