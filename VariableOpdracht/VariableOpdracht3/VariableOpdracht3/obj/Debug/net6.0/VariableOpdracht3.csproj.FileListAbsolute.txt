@@ -1,0 +1,15 @@
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\bin\Debug\net6.0\VariableOpdracht3.exe
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\bin\Debug\net6.0\VariableOpdracht3.deps.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\bin\Debug\net6.0\VariableOpdracht3.runtimeconfig.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\bin\Debug\net6.0\VariableOpdracht3.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\bin\Debug\net6.0\VariableOpdracht3.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\obj\Debug\net6.0\VariableOpdracht3.csproj.AssemblyReference.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\obj\Debug\net6.0\VariableOpdracht3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\obj\Debug\net6.0\VariableOpdracht3.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\obj\Debug\net6.0\VariableOpdracht3.AssemblyInfo.cs
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\obj\Debug\net6.0\VariableOpdracht3.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\obj\Debug\net6.0\VariableOpdracht3.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\obj\Debug\net6.0\refint\VariableOpdracht3.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\obj\Debug\net6.0\VariableOpdracht3.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\obj\Debug\net6.0\VariableOpdracht3.genruntimeconfig.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\VariableOpdracht\VariableOpdracht3\VariableOpdracht3\obj\Debug\net6.0\ref\VariableOpdracht3.dll
