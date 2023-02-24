@@ -1,0 +1,15 @@
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.csproj.AssemblyReference.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.AssemblyInfo.cs
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.exe
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.deps.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.runtimeconfig.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\refint\CalculateOpdracht2.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.genruntimeconfig.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\ref\CalculateOpdracht2.dll
