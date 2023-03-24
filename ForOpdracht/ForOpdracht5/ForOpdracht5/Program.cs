@@ -12,7 +12,7 @@ namespace ForOpdracht5
 
             //zorg ervoor dat alleen 3 tot en met 7 op de console komen,
             //doe dit door de start ( i= 0) en tot (nummers.length) van de for aan te passen
-            for (int i = 3; i < nummers[8]; i++)
+            for (int i = 3; i <= nummers[7]; i++)
             {
                 
                 Console.WriteLine(nummers[i]);
