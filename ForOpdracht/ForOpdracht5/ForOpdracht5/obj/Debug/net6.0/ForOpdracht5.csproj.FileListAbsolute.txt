@@ -1,0 +1,15 @@
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\bin\Debug\net6.0\ForOpdracht5.exe
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\bin\Debug\net6.0\ForOpdracht5.deps.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\bin\Debug\net6.0\ForOpdracht5.runtimeconfig.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\bin\Debug\net6.0\ForOpdracht5.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\bin\Debug\net6.0\ForOpdracht5.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\obj\Debug\net6.0\ForOpdracht5.csproj.AssemblyReference.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\obj\Debug\net6.0\ForOpdracht5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\obj\Debug\net6.0\ForOpdracht5.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\obj\Debug\net6.0\ForOpdracht5.AssemblyInfo.cs
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\obj\Debug\net6.0\ForOpdracht5.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\obj\Debug\net6.0\ForOpdracht5.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\obj\Debug\net6.0\refint\ForOpdracht5.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\obj\Debug\net6.0\ForOpdracht5.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\obj\Debug\net6.0\ForOpdracht5.genruntimeconfig.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\ForOpdracht\ForOpdracht5\ForOpdracht5\obj\Debug\net6.0\ref\ForOpdracht5.dll
