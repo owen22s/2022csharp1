@@ -1,0 +1,15 @@
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\bin\Debug\net6.0\PropertyOpdracht2.exe
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\bin\Debug\net6.0\PropertyOpdracht2.deps.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\bin\Debug\net6.0\PropertyOpdracht2.runtimeconfig.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\bin\Debug\net6.0\PropertyOpdracht2.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\bin\Debug\net6.0\PropertyOpdracht2.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.csproj.AssemblyReference.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.AssemblyInfo.cs
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\refint\PropertyOpdracht2.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.genruntimeconfig.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\ref\PropertyOpdracht2.dll

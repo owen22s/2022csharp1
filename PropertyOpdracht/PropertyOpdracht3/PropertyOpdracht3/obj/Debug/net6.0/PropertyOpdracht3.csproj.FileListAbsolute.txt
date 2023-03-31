@@ -1,0 +1,30 @@
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.exe
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.deps.json
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.runtimeconfig.json
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.dll
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.pdb
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.csproj.AssemblyReference.cache
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.GeneratedMSBuildEditorConfig.editorconfig
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.AssemblyInfoInputs.cache
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.AssemblyInfo.cs
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.csproj.CoreCompileInputs.cache
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.dll
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\refint\PropertyOpdracht3.dll
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.pdb
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.genruntimeconfig.cache
+C:\onedrive\OneDrive - Mediacollege Amsterdam\doc\lessen\2022-23 periode 3\Flex c#\c#\opdracht oplossingen\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\ref\PropertyOpdracht3.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.exe
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.deps.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.runtimeconfig.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\bin\Debug\net6.0\PropertyOpdracht3.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.csproj.AssemblyReference.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.AssemblyInfo.cs
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\refint\PropertyOpdracht3.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\PropertyOpdracht3.genruntimeconfig.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.3\flex\FLEXP3JR1-2\PropertyOpdracht\PropertyOpdracht3\PropertyOpdracht3\obj\Debug\net6.0\ref\PropertyOpdracht3.dll
